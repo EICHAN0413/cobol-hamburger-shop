@@ -13,8 +13,9 @@ COBOLの練習でハンバーガーショップでの購入をプログラム。
 金額を入力すると金額に合わせて条件分岐を行いますが、金額が足りなければ購入できません。
 
 ## アプリケーションの実行手順
-$ git clone git@github.com:EICHAN0413/cobol-hamburger-shop.git
-$ ./HAMBURGER-SHOP
+ - $ git clone git@github.com:EICHAN0413/cobol-hamburger-shop.git
+ - $ ./HAMBURGER-SHOP
+
 
 ### その他
 練習で作成したFizzBuzzもあります
