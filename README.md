@@ -1,6 +1,4 @@
-# README
-
-## COBOL 練習アプリ
+# COBOL 練習アプリ
 
 ## 開発環境
  - cobc (GnuCOBOL) 3.1.2.0
@@ -18,10 +16,11 @@
 
 ## アプリケーションの実行手順
 > $ git clone git@github.com:EICHAN0413/cobol-hamburger-shop.git
-> 
+
 > $ ./HAMBURGER-SHOP
 
 
 ### その他
 > 練習で作成したFizzBuzzもあります
+> 
 > 実行 ./fizz-buzz
